@@ -70,6 +70,11 @@ Install Ollama (https://ollama.com)
 Then pull a supported model:
 ollama pull mistral
 
+# Install Ollama (Mistral model)
+curl -fsSL https://ollama.com/install.sh | sh
+ollama pull mistral
+
+
 ### 3. ▶️ Run the Assistant 
 python3 assistant.py
 
