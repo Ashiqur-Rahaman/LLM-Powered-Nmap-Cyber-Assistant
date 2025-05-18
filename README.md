@@ -70,8 +70,7 @@ Install Ollama (https://ollama.com)
 Then pull a supported model:
 ollama pull mistral
 
-```
-Run The Assistant 
+### 3. ▶️ Run the Assistant 
 python3 assistant.py
 
 
