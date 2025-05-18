@@ -64,7 +64,7 @@ sudo apt install nmap   # Debian/Ubuntu
 # or
 brew install nmap       # macOS
 ```
-2. Install Ollama and pull a model
+### 2. Install `Ollama` and pull a model
 
 # Install Ollama (https://ollama.com)
 # Then pull a supported model:
