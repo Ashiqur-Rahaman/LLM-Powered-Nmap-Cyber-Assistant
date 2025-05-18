@@ -66,8 +66,8 @@ brew install nmap       # macOS
 ```
 ### 2. Install `Ollama` and pull a model
 
-# Install Ollama (https://ollama.com)
-# Then pull a supported model:
+Install Ollama (https://ollama.com)
+Then pull a supported model:
 ollama pull mistral
 
 ```
